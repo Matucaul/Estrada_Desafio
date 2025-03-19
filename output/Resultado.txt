@@ -1,0 +1,4 @@
+
+
+Teste com o arquivo Teste01.txt:
+ATENÇÃO: Você acertou 3 de 4 itens. Logo, em 2.00 pontos, sua nota foi 1.50.
